@@ -1,6 +1,6 @@
 .item{
     width: 280PX;
-    height: 535px;
+    height: auto;
     padding-top: 0px;
     overflow: hidden;
 }
